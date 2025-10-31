@@ -1,0 +1,6 @@
+@CollageWebAPI_HostAddress = http://localhost:5205
+
+GET {{CollageWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
